@@ -26,9 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Chirayata Bhattacharyya"
   pronouns         : "he/him"  
-  bio              : "Researcher interested in Computer Vision, Image Restoration, Diffusion Models, and Generative AI."
+  bio              : "Researcher interested in Stochastic Processes, Diffusion Models, VLMs, and Energy-Efficient Learning."
   location         : "India"
-  employer         : "Senior Engineer, Qualcomm and past @ Indian Institute of Science"
+  employer         : "Senior Engineer, Qualcomm"
+  education        : "M. Tech, Indian Institute of Science" 
   uri              : # URL
   email            : "chirayatab@iisc.ac.in" 
 
